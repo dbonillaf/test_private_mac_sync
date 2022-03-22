@@ -1,0 +1,369 @@
+{
+    "settings": {
+        "language": "EN",
+        "MACversion": "0.3"
+    },
+    "aboutMe": {
+        "profile": {
+            "name": "Alvaro",
+            "surnames": "Cuesta Viñolo",
+            "title": "Chief Operating Officer at Startup",
+            "description": "Informático por vocación.\nHago software desde hace algo más de una década, tanto en consultoría como en producto.\nMe encanta mi trabajo y el constante aprendizaje que requiere, tanto en su faceta tecnológica como humana.\nAlgunas empresas en las que he trabajo son Autentia, Digibis, TwoToForty y actualmente en Klikin y Waylet.",
+            "avatar": {
+                "alt": "profile-image",
+                "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/21/51b58709-54bc-46ae-b258-a259a497606d_3c7db1077ce759e22c54.3c7db1077ce759e22c54d235054182dc"
+            }
+        },
+        "relevantLinks": [
+            {
+                "type": "linkedin",
+                "URL": "https://www.linkedin.com/in/alcuvi/"
+            },
+            {
+                "type": "twitter",
+                "URL": "https://twitter.com/alcuvi"
+            }
+        ],
+        "interestingFacts": [
+            {
+                "topic": "Favorite editor",
+                "fact": "Vi - mainly WinVi these days"
+            },
+            {
+                "topic": "First computer",
+                "fact": "TRS-80 Model I with Level I BASIC and 4K of RAM"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "TCP/IP Illustrated, Vol. 1: The Protocols (Addison-Wesley Professional Computin...",
+                "type": "reading",
+                "URL": "http://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201633469",
+                "authors": [
+                    {
+                        "name": "W.",
+                        "surnames": "Richard Stevens",
+                        "title": "Author"
+                    }
+                ],
+                "summary": "The TCP layer is an amazingly sophisticated and robust protocol design that was refined and improved based on significant field experience. It's not until you completely understand all its nuances do you realize that if/when you set out to design a protocol of your own that the problem being solved is easily underestimated and not for the faint of heart."
+            },
+            {
+                "title": "TCP/IP Illustrated, Vol. 2: The Implementation",
+                "type": "reading",
+                "URL": "http://www.amazon.com/TCP-IP-Illustrated-Vol-Implementation/dp/020163354X%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D020163354X",
+                "authors": [
+                    {
+                        "name": "Gary R.",
+                        "surnames": "Wright",
+                        "title": "Author"
+                    }
+                ],
+                "summary": "I wish the authors of the original BSD TCP/IP network stack had read Code Complete. Without this volume, the implementation would be totally unmaintainable. As a side note, I have always wanted to sit down and write a modern implementation of the stack from scratch...and someday may."
+            },
+            {
+                "title": "Code Complete (Microsoft Programming)",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Complete-Microsoft-Programming-Steve-McConnell/dp/1556154844%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1556154844",
+                "authors": [
+                    {
+                        "name": "Steve",
+                        "surnames": "McConnell",
+                        "title": "Author"
+                    }
+                ],
+                "summary": "Writing code good is first about the next person to come along and only second about the computer executing it. Therefore, just because it works, doesn't mean you are done or that you couldn't have done it better."
+            },
+            {
+                "title": "Competing for the Future",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Competing-Future-Gary-Hamel/dp/0875847161%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0875847161",
+                "authors": [
+                    {
+                        "name": "Gary",
+                        "surnames": "Hamel",
+                        "title": "Author"
+                    }
+                ],
+                "summary": "While there are no crystal balls, you can imagine a future and do the hard work to make it come true."
+            }
+        ]
+    },
+    "experience": {
+        "jobs": [
+            {
+                "organization": {
+                    "name": "Bonillaware",
+                    "image": {
+                        "alt": "Captura de pantalla 2022-03-16 a las 9.11.08.png",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/0758888c-cbf6-4ef1-8217-fb7272682902_captura-de-pantalla-.png"
+                    },
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "name": "Product Manager",
+                        "startDate": "2005-03-01",
+                        "challenges": [
+                            {
+                                "description": ""
+                            }
+                        ],
+                        "competences": []
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Stack Overflow",
+                    "image": {
+                        "alt": "Stack Overflow",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/21/ccd06eb3-6693-45c1-82b1-b3778a0c3fa5_bzx05ueutnoahkumlneg.png"
+                    },
+                    "URL": "https://stackoverflow.com"
+                },
+                "roles": [
+                    {
+                        "name": "Chief Operating Officer",
+                        "startDate": "2010-07-01",
+                        "finishDate": "2018-04-30",
+                        "challenges": [
+                            {
+                                "description": "Executive in charge of the definition and operations of the revenue bearing products and services of the Stack Exchange Network including our flagship property StackOverflow.com. Responsibilities include running the advertising business and the also the Careers business that this very profile is hosted on.\n\nOur mission is making the Internet a better place than we found it and to enable experts to get answers to their questions from other experts via our community powered (and free!) Q&A sites: it started with Stack Overflow for programming related questions, but now we’ve moved on to dozens of other topics via our Stack Exchange network. See what we are all about at StackExchange.com/about."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "C#",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Eastman Kodak Company",
+                    "image": {
+                        "alt": "Captura de pantalla 2022-03-16 a las 9.11.08.png",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/21/843755d8-dd5e-4c6e-88a3-606ec2addfbf_captura-de-pantalla-.png"
+                    },
+                    "URL": "http://kodak.com"
+                },
+                "roles": [
+                    {
+                        "name": "System Architect and Software Engineer",
+                        "startDate": "1989-01-01",
+                        "finishDate": "1995-01-01",
+                        "challenges": [
+                            {
+                                "description": "Technical leader of Kodak's top digital photographic copy and enlargement systems including the highly successful Kodak PictureMaker kiosk system commonly seen in many department stores.\n\nProposed product concept, developed market attack strategy, and defined system requirements for the initial line of products that eventually evolved into a major new business.\n\nLeader of all software development during the product commercialization cycle.\n\nSoftware development focused on image path definition, imaging algorithm optimization, print engine controller, touch screen GUI window operating system.\n\nFrom concept to world-wide product launch in less than 11 months."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "C",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "The Culture Trip",
+                    "image": {
+                        "alt": "The Culture Trip",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/21/80f9d531-3432-43be-9bc7-372c8b537951_mpyppqhho7m3kgrq7npk.mpyppqhho7m3kgrq7npk"
+                    },
+                    "URL": "http://www.theculturetrip.com"
+                },
+                "roles": [
+                    {
+                        "name": "Chief Operating Officer",
+                        "startDate": "2018-05-01",
+                        "finishDate": "2018-09-30",
+                        "challenges": [
+                            {}
+                        ],
+                        "competences": []
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Allworx",
+                    "image": {
+                        "alt": "Allworx",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/21/54f7c167-4dfd-4af2-a03d-b4f47fa7968d_68b02349b12903cd6e27.jpg"
+                    },
+                    "URL": "http://www.allworx.com"
+                },
+                "roles": [
+                    {
+                        "name": "CTO and Founder",
+                        "startDate": "1998-07-01",
+                        "finishDate": "2010-06-30",
+                        "challenges": [
+                            {
+                                "description": "Co-founded the company in 1998 and built the business to the point of a successful exit when Allworx was acquired by PAETEC (NASDAQ:PAET) in October 2007. Allworx now operates as a wholly owned subsidiary of PAETEC Holding Company.\n\nSenior executive responsible for the strategic direction of the Allworx business and driving the ongoing integration of Allworx with the offerings from the other business units of PAETEC. Leader of all product development including product strategy, product definition and product requirements for the entire Allworx product portfolio.\n\nStructured Allworx into two successful business divisions: The Consulting Division offering embedded product development services to other companies; the Product Division designing, manufacturing, and selling a complete line of VoIP based telephone phones and phone systems.\n\nThe Allworx product family includes three web managed VoIP PBX switch products, seven VoIP telephone handsets, and a suite of Windows applications."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "C",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "C++",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Xerox",
+                    "image": {
+                        "alt": "Xerox",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/21/71d61215-701a-48d4-9454-6c0d7b785ba2_a79a667532e561f2e9ab.png"
+                    },
+                    "URL": "http://www.xerox.com"
+                },
+                "roles": [
+                    {
+                        "name": "System Architect and Technical Program Manager",
+                        "startDate": "1995-01-01",
+                        "finishDate": "1998-01-01",
+                        "challenges": [
+                            {
+                                "description": "Recruited and lead 15 person engineering team responsible for a new line of embedded print servers (raster image processors) for all Xerox Engineering Systems printer and plotter products.\n\nDefined all system requirements, system architecture and created the product technical road map for the next generation of solutions. Achieved a 10X product performance improvement at approximately ½ the cost of the targeted competition.\n\nMet or beat all projected metrics relative to budget, schedule, unit costs and performance.\n\nFirst iteration of the new platform was developed completely from scratch in less than 12 months. The highly successful Xerox 8830 wide format printer/plotter product received Cadalyst Magazine's highest 5-star rating."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "C",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "C++",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "details": {
+                    "name": "Proyecto muy chulo",
+                    "description": "",
+                    "URL": null,
+                    "image": {
+                        "alt": "Captura de pantalla 2022-03-16 a las 9.11.08.png",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/20/5d5c69f0-5c3e-4e5e-8a3c-cc1a84870cf8_captura-de-pantalla-.png"
+                    }
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "1906-03-01",
+                        "competences": []
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "Code-Awesome",
+                    "description": "Code Awesome\n\nProject Creator",
+                    "URL": "https://github.com/inscitekjeff/Code-Awesome"
+                },
+                "type": "other",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2011-06-01",
+                        "competences": []
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "EL proyecto con Blanca",
+                    "description": "",
+                    "URL": null
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "1977-02-01",
+                        "competences": []
+                    }
+                ]
+            }
+        ],
+        "publicArtifacts": []
+    },
+    "knowledge": {
+        "studies": [
+            {
+                "studyType": "officialDegree",
+                "degreeAchieved": true,
+                "name": "B.S. Electrical Engineering",
+                "startDate": "1986-01-01",
+                "finishDate": "1991-01-01",
+                "institution": {
+                    "name": "Rochester Inst of Technology",
+                    "URL": null
+                },
+                "linkedCompetences": []
+            },
+            {
+                "studyType": "officialDegree",
+                "degreeAchieved": true,
+                "name": "Derecho",
+                "startDate": "1900-09-01",
+                "finishDate": "2001-06-01",
+                "institution": {
+                    "name": "Universidad Autonoma",
+                    "description": "",
+                    "URL": null
+                },
+                "linkedCompetences": []
+            },
+            {
+                "studyType": "unaccredited",
+                "degreeAchieved": false,
+                "name": "Curso de Cocina",
+                "startDate": "2014-04-01",
+                "institution": {
+                    "name": "Universidad Autonoma",
+                    "description": "",
+                    "URL": null
+                },
+                "linkedCompetences": []
+            }
+        ]
+    },
+    "careerPreferences": {
+        "contact": {
+            "contactMails": [
+                "alvaro.fouz@gmail.com"
+            ],
+            "publicProfiles": [
+                {
+                    "type": "linkedin",
+                    "URL": "https://www.linkedin.com/in/alcuvi/"
+                }
+            ]
+        }
+    }
+}
