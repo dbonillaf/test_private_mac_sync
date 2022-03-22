@@ -66,8 +66,6 @@ Just navigate to [your profile](https://getmanfred.com/profile) and update whate
 
 Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes. [Your profile in Manfred](<(https://getmanfred.com/profile)>) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
 
-<img alt="WOW" src="https://media2.giphy.com/media/5VKbvrjxpVJCM/giphy.gif?cid=ecf05e47c8d15c29d23b964f4af2e4a2847e6924440855da&rid=giphy.gif&ct=g">
-
 ## 🪠 Contact and Troubleshooting
 
 > :warning: Remember that your CV has to be [a valid MAC JSON file](https://github.com/getmanfred/mac) to be synchronized !!!
