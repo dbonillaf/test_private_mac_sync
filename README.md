@@ -19,15 +19,15 @@ This repository contains **my professional data**, stored as a [MAC](/CV/MAC.jso
 <br/>
 
 - [Folder Structure](#-folder-structure)
-- [How you could sync your Manfred profile with your own repo](#-how-you-could-sync-your-manfred-profile-with-your-own-repo)
-- [How you could update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-you-could-update-your-cv-in-manfred)
-- [How you could update your CV in GitHub](#octocat-how-you-could-update-your-cv-in-github)
+- [How can you sync your Manfred profile with your own repo](#-how-can-you-sync-your-manfred-profile-with-your-own-repo)
+- [How can you update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-can-you-update-your-cv-in-manfred)
+- [How can you update your CV in GitHub](#octocat-how-can-you-update-your-cv-in-github)
 - [Contact and Troubleshooting](#-contact-and-troubleshooting)
 - [License](#%EF%B8%8F-license)
 
 ## 📁 Folder Structure
 
-The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you can find more file and folders but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
+The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you will find more files and folders, but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
 
     .
     │
@@ -40,10 +40,10 @@ The structure of this repo is pretty simple. You have all metadata and config fi
     │
     └── ...
 
-- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`)
-- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.)
+- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`).
+- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
 
-## 🔗 How you could sync your Manfred profile with your own repo
+## 🔗 How can you sync your Manfred profile with your own repo
 
 1. First, you have to [create an empty repository](https://github.com/new) (public or private) in your GitHub Account.
 2. If you have a profile at Manfred ([getmanfred.com](https://www.getmanfred.com/)), you can configure the synchronization within `Settings/Data Management`.
@@ -54,17 +54,17 @@ The structure of this repo is pretty simple. You have all metadata and config fi
 
 <img alt="https://github.com/apps/manfred-github-connector" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_connector.png?raw=true" width="600">
 
-4. **You are done!** So easy and so powerful.
+4. **You are done!** So easy, so powerful.
 
-## Ⓜ️ How you could update your CV in Manfred
+## Ⓜ️ How can you update your CV in Manfred
 
-Just navigate to [your profile](https://getmanfred.com/profile) and update whatever you want. If you have synchronized your profile with your GitHub repo, **it will be updated automagically with a new version of your MAC**, including the last updates.
+Just navigate to [your profile](https://getmanfred.com/profile) and update whatever you want. If you have synchronized your profile with your GitHub repo, **it will be updated automagically with a new version of your MAC**, including the latest updates.
 
 <img alt="Magic" src="https://media4.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif?cid=ecf05e471avdapgosxv5t0j0kovk1rr4vq59nlnapfuebgph&rid=giphy.gif&ct=g">
 
-## :octocat: How you could update your CV in GitHub
+## :octocat: How can you update your CV in GitHub
 
-Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes and [your profile in Manfred](<(https://getmanfred.com/profile)>) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
+Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes. [Your profile in Manfred](<(https://getmanfred.com/profile)>) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
 
 <img alt="WOW" src="https://media2.giphy.com/media/5VKbvrjxpVJCM/giphy.gif?cid=ecf05e47c8d15c29d23b964f4af2e4a2847e6924440855da&rid=giphy.gif&ct=g">
 
@@ -72,9 +72,9 @@ Just edit your MAC in the `/CV` folder in the repository page or directly in you
 
 > :warning: Remember that your CV has to be [a valid MAC JSON file](https://github.com/getmanfred/mac) to be synchronized !!!
 
-For example, there are 4 "study types" ("officialDegree", "certification", "unaccredited" and "selfTraining") if you include a new type like "kindergarten", your CV could be a valid JSON file but not a MAC and therefor **your data won't be synchronized and we will send you an email with detailed info about the error**.
+For example, there are 4 "study types" ("officialDegree", "certification", "unaccredited" and "selfTraining") if you include a new type like "kindergarten", your CV could be a valid JSON file but not a MAC and therefore, **your data won't be synchronized and we will send you an email with detailed info on the error**.
 
-You have the full MAC definition available [here](https://github.com/getmanfred/mac/blob/master/schema/schema.json). If you have any question, don't hesitate to send an email to [support@getmanfred.com](mailto:support@getmanfred.com), ping us on [Twitter](https://twitter.com/getmanfred) or [fill a support ticket](https://getmanfred.freshdesk.com/). We'd love to help you! 🤓
+You can find the full MAC definition available [here](https://github.com/getmanfred/mac/blob/master/schema/schema.json). If you have any question, please, don't hesitate to reach us at [support@getmanfred.com](mailto:support@getmanfred.com), ping us on [Twitter](https://twitter.com/getmanfred) or [fill a support ticket](https://getmanfred.freshdesk.com/). We'd love to help you! 🤓
 
 ## ⚖️ License
 
