@@ -7,7 +7,7 @@
         "profile": {
             "name": "Alvaro",
             "surnames": "Cuesta Viñolo",
-            "title": "Developer",
+            "title": "CTO at Ahana Pediatrics",
             "description": "Informático por vocación.\nHago software desde hace algo más de una década, tanto en consultoría como en producto.\nMe encanta mi trabajo y el constante aprendizaje que requiere, tanto en su faceta tecnológica como humana.\nAlgunas empresas en las que he trabajo son Autentia, Digibis, TwoToForty y actualmente en Klikin y Waylet.",
             "avatar": {
                 "alt": "profile-image",
@@ -86,6 +86,67 @@
                     }
                 ],
                 "summary": "While there are no crystal balls, you can imagine a future and do the hard work to make it come true."
+            },
+            {
+                "title": "The Passionate Programmer: Creating a Remarkable Career in Software Development...",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356344",
+                "authors": [
+                    {
+                        "name": "Chad",
+                        "surnames": "Fowler",
+                        "title": "Author"
+                    }
+                ]
+            },
+            {
+                "title": "The Pragmatic Programmer: From Journeyman to Master",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D020161622X",
+                "authors": [
+                    {
+                        "name": "Andrew",
+                        "surnames": "Hunt",
+                        "title": "Author"
+                    }
+                ]
+            },
+            {
+                "title": "Code Complete: A Practical Handbook of Software Construction, Second Edition",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0735619670",
+                "authors": [
+                    {
+                        "name": "Steve",
+                        "surnames": "McConnell",
+                        "title": "Author"
+                    }
+                ],
+                "summary": "This book is somewhat dated, with no JavaScript sample code and plenty of Visual Basic sample code. However, I'd recommend it a source of inspiration to software engineers looking to form ideas about how best to write code. Some of McConnell's ideas are great, some are pretty terrible; some of his examples are useful, some are total strawmen.\n\nIt's a hefty tome, but it's worth going through; just take it with a pinch of salt and you'll do fine."
+            },
+            {
+                "title": "Switch: How to Change Things When Change Is Hard",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0385528752",
+                "authors": [
+                    {
+                        "name": "Chip",
+                        "surnames": "Heath",
+                        "title": "Author"
+                    }
+                ]
+            },
+            {
+                "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "type": "reading",
+                "URL": "http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201633612",
+                "authors": [
+                    {
+                        "name": "Erich",
+                        "surnames": "Gamma",
+                        "title": "Author"
+                    }
+                ]
             }
         ]
     },
@@ -211,15 +272,15 @@
                         ],
                         "competences": [
                             {
-                                "name": "JavaScript",
-                                "type": "technology"
-                            },
-                            {
                                 "name": "C",
                                 "type": "technology"
                             },
                             {
                                 "name": "C++",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JavaScript",
                                 "type": "technology"
                             }
                         ]
@@ -257,6 +318,315 @@
                         ]
                     }
                 ]
+            },
+            {
+                "organization": {
+                    "name": "IBM",
+                    "URL": "http://www.ibm.com"
+                },
+                "roles": [
+                    {
+                        "name": "Storage Virtualization Support Tools Developer",
+                        "startDate": "2010-08-01",
+                        "finishDate": "2012-03-31",
+                        "challenges": [
+                            {
+                                "description": "I was responsible for creating and maintaining the tools used by IBM Support Engineers at all levels supporting IBM's SAN Volume Controller and Storwize V7000 products.\n\nThese tools provide visualization of data sets as well as automatic problem diagnosis.\n\nWithout these tools, lower level engineers are forced to escalate tickets to higher levels, putting a burden on limited resources. My responsibility is to provide easily usable tools to allow engineers to spend less time combing through data and more time figuring out diagnoses and resolutions.\n\nOur logs and dumps are in a proprietary format, so I need to craft everything from scratch. One of my accomplishments is to study data visualization techniques (from the likes of Tufte) and bring them to bear in the field of Technical Support."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "MySQL",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Perl",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "jQuery",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "HTML",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "XML",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "bash",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Milford Instruments",
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "name": "Software Engineer",
+                        "startDate": "2001-07-01",
+                        "finishDate": "2003-04-30",
+                        "challenges": [
+                            {
+                                "description": "*   Developed firmware and hardware for DMX-512 [transceiver module](http://www.farnell.com/datasheets/461029.pdf).\n    *   Converted _from_ DMX-512 to voltage/servo/RS-232\n    *   Converted _to_ DMX-512 from RS-232/voltage\n*   Taught self SPI, RS232, DMX and PWM protocols from specification sheets.\n*   Wrote end user documentation.\n*   Developed GUIs for company's modules using Visual Basic for Windows UIs and NS Basic"
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "assembler",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Visual Basic",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "palm-os",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Jellyvision",
+                    "image": {
+                        "alt": "Jellyvision",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/7c535f2f-000e-4bd1-9991-c03d50a1929c_5e8debbe11eb02f5713d.jpg"
+                    },
+                    "URL": "http://jellyvision.com"
+                },
+                "roles": [
+                    {
+                        "name": "Director of Product Engineering",
+                        "startDate": "2015-04-01",
+                        "finishDate": "2017-05-31",
+                        "challenges": [
+                            {
+                                "description": "I run the Product Engineering team at Jellyvision, working on [ALEX](http://www.meetalex.com/), the virtual benefits counsellor.\n\nWe're rolling out Scrum at Jellyvision and working to get the team less siloed and working together more closely on full stack features and fixes. We've got some outstanding engineers here and helping them communicate and collaborate well is what I'm focussed on.\n\nI'm responsible for recruiting new talent and helping our current talent grow."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "AngularJS",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Ruby on Rails",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "CouchDB",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "actionscript-3",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Ahana Pediatrics",
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "name": "CTO",
+                        "startDate": "2017-05-01",
+                        "challenges": [
+                            {}
+                        ],
+                        "competences": [
+                            {
+                                "name": "NodeJS",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "reactjs",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "amazon-web-services",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "IBM",
+                    "URL": "http://www.ibm.com"
+                },
+                "roles": [
+                    {
+                        "name": "Storage Virtualization Expert",
+                        "startDate": "2006-02-01",
+                        "finishDate": "2007-11-30",
+                        "challenges": [
+                            {
+                                "description": "Onsite Support for Ford Motor Credit Company\n--------------------------------------------\n\nActed as the on-site expert for a significant migration of data from a competitor. Streamlined Ford's configuration methods to reduce errors.\n\nWorked directly and proactively with Ford management and engineering teams to address emerging issues.\n\nDesigned and presented educational packages to fellow engineers on support tools and debug techniques.\n\nIBM TotalStorage support\n------------------------\n\nProvided Level 2 and Level 3 support for IBM TotalStorage products: \\* SAN Volume Controller \\* Subsystem Device Driver \\* DS CIM Agent\n\nPresented on SAN Volume Controller at two conferences and to multiple customers\n\nActed as Lab Advocate for Kroger during a major transitional period as they adopted our products.\n\nDeveloped a critical support tool for analyzing system configurations."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "MySQL",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Perl",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "HTML",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "jQuery",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "bash",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "IBM",
+                    "URL": "http://www.ibm.com"
+                },
+                "roles": [
+                    {
+                        "name": "Firmware Engineer",
+                        "startDate": "2002-07-01",
+                        "finishDate": "2006-02-28",
+                        "challenges": [
+                            {
+                                "description": "Worked in the Storage Subsystem Department on two storage cards\n\nSCSI/SSA Protocol Converter Card\n--------------------------------\n\nDeveloped in Assembler, but using module-based approach. I owned the SCSI half of the codebase.\n\nI introduced support for compressed microcode builds. In addition, I resolved a number of _long_\\-standing defects that had been implicated in multiple customer issues.\n\nParticipated in a focussed effort to debug issues affecting multiple customers and successfully isolated the root cause of the error.\n\nFC-AL Storage Adapter\n---------------------\n\nDeveloped in C, but using OO design and implementation methods, eg UML.\n\nDeveloped code runs in an in-house Real Time Operating System\n\nBuilt Korn Shell scripts to automate code reviews, change management and unit testing."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "C",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Shell",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "assembly",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "IBM",
+                    "URL": "http://www.ibm.com"
+                },
+                "roles": [
+                    {
+                        "name": "Global Support Manager, JP Morgan Chase Account",
+                        "startDate": "2007-11-01",
+                        "finishDate": "2010-08-31",
+                        "challenges": [
+                            {
+                                "description": "This role involved\n\n*   Account Management\n*   Change Management\n*   Problem Management\n*   Crisis Management\n\nIn short, I was responsible for all IBM Storage problems at JPMorgan Chase. My job was to redcue the number of outages that occurred, with appropriate change management and deployment schedules. In addition I was to reduce the length of any outages by ensuring that the right resources were deployed in the event of a failure.\n\nI was very effective within this role and won the praise of high level manahement within IBM and JPMorgan Chase"
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "storage",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "change-management",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "communication",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "account",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Vodori",
+                    "image": {
+                        "alt": "Vodori",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/354c2185-7e7a-4271-af65-7acdf6ea83ea_7be49b52d411453b96da.png"
+                    },
+                    "URL": "http://www.vodori.com"
+                },
+                "roles": [
+                    {
+                        "name": "Senior Product Development Manager",
+                        "startDate": "2012-04-01",
+                        "finishDate": "2015-04-30",
+                        "challenges": [
+                            {
+                                "description": "Completed three versions of our product, [Pepper](http://www.vodori.com/pepper.html).\n\nImplemented code quality improvements:\n\n*   Championed the use of code reviews\n*   Implemented a JavaScript Unit Test strategy\n*   Introduced a reading group to encourage growth of junior developers\n*   Refined ticket workflow processes to ensure that due care was taken over fixes\n*   Implemented the first significant roll out of the Scrum methodology in the company\n*   Devised and delivered JavaScript training across the company (with a focus on Dojo)\n    *   Built a CI platform and build farm based on Atlassian's Bamboo product\n\nMajor part of the FE recruitment process, performing phone screens, technical interviews and on-site interviews.\n\nProvided technical and professional mentorship to developers both in my team and across the company."
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "dojo",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JAVA",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "tinymce",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "bamboo",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Jira",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "projects": [
@@ -281,21 +651,6 @@
             },
             {
                 "details": {
-                    "name": "Code-Awesome",
-                    "description": "Code Awesome\n\nProject Creator",
-                    "URL": "https://github.com/inscitekjeff/Code-Awesome"
-                },
-                "type": "other",
-                "roles": [
-                    {
-                        "name": "Developer",
-                        "startDate": "2011-06-01",
-                        "competences": []
-                    }
-                ]
-            },
-            {
-                "details": {
                     "name": "EL proyecto con Blanca",
                     "description": "",
                     "URL": null
@@ -308,12 +663,637 @@
                         "competences": []
                     }
                 ]
+            },
+            {
+                "details": {
+                    "name": "fbp-telegram",
+                    "description": "FBP Solution to the Telegram Problem",
+                    "URL": "https://github.com/dancrumb/fbp-telegram"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2016-05-01",
+                        "finishDate": "2017-01-31",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "fbp-lzw",
+                    "description": "FBP Implementation of the LZW algorithm",
+                    "URL": "https://github.com/dancrumb/fbp-lzw"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2016-05-01",
+                        "finishDate": "2017-01-31",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "oyez",
+                    "description": "An event aggregator module",
+                    "URL": "https://GitHub.com/dancrumb/oyez"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2016-11-01",
+                        "finishDate": "2016-12-31",
+                        "competences": [
+                            {
+                                "name": "NodeJS",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "operation-tree",
+                    "description": "Takes a tree of operators and operands and calculates its value.",
+                    "URL": "https://github.com/dancrumb/operation-tree"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2016-02-01",
+                        "finishDate": "2016-03-31",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "jsfbp",
+                    "description": "FBP implementation written using JavaScript and node-fibers\n\nI am a collaborator on this project. I've brought it in to the NPM ecosystem and am working on making it easier to maintain and easier to use for newcomers to FBP",
+                    "URL": "https://github.com/jpaulm/jsfbp"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2015-01-01",
+                        "finishDate": "2016-01-31",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "slack-link-generator",
+                    "description": "Generate slack:// links to channels",
+                    "URL": "https://github.com/dancrumb/slack-link-generator"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2015-11-01",
+                        "finishDate": "2015-12-31",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "exreg",
+                    "description": "A module to generate strings to match regular expressions",
+                    "URL": "https://github.com/dancrumb/exreg"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2015-10-01",
+                        "finishDate": "2015-11-30",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "chemical-states",
+                    "description": "I created this from scratch.\n\nLearned about Heroku deployments",
+                    "URL": "https://github.com/dancrumb/chemical-states"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2013-12-01",
+                        "finishDate": "2013-12-31",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "Fallback Plan",
+                    "description": "A handy module for helping manage fallback plans when executing operations that might fail",
+                    "URL": "https://github.com/dancrumb/fallback-plan"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2017-01-01",
+                        "competences": [
+                            {
+                                "name": "NodeJS",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "promise",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "generator",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "sieve",
+                    "description": "Sieve of Eratosthenes\n\nExperimentations with functional programming in JavaScript",
+                    "URL": "https://github.com/dancrumb/sieve"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2016-03-01",
+                        "finishDate": "2016-04-30",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "sieve-of-eratosthenes",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "grunt-dojo",
+                    "description": "Build Dojo inside a Grunt task\n\nAdded support for various build parameters",
+                    "URL": "https://github.com/vodori/grunt-dojo"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2013-04-01",
+                        "finishDate": "2013-04-30",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "gruntjs",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "dojo",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
             }
         ],
-        "publicArtifacts": []
+        "publicArtifacts": [
+            {
+                "details": {
+                    "name": "Is Javascript synchronous(blocking) or Asynchronous(nonblocking) by default",
+                    "URL": "https://stackoverflow.com/questions/16523870/is-javascript-synchronousblocking-or-asynchronousnonblocking-by-default/16524240#16524240"
+                },
+                "type": "post",
+                "publishingDate": "2013-05-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Figuring out Method Resolution Order in Dojo — All Geekness Great and Small",
+                    "description": "How Dojo performs MRO",
+                    "URL": "http://www.danrumney.co.uk/2012/05/08/figuring-out-method-resolution-order-in-dojo/"
+                },
+                "type": "post",
+                "publishingDate": "2012-05-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Problems with Event handling and AOP advice in Dojo when hitch is in play — All Geekness Great and Small",
+                    "description": "A short piece about combing Dojo's hitch functionality with Event handling and AOP",
+                    "URL": "http://www.danrumney.co.uk/2012/05/06/problems-with-event-handling-and-aop-advice-in-dojo-when-hitch-is-in-play/"
+                },
+                "type": "post",
+                "publishingDate": "2012-05-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Is there a term for referring to an organization by its city rather than by its name?",
+                    "URL": "https://english.stackexchange.com/questions/27163/is-there-a-term-for-referring-to-an-organization-by-its-city-rather-than-by-its/27173#27173"
+                },
+                "type": "post",
+                "publishingDate": "2011-05-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Handling wrapping buffers with Perl — All Geekness Great and Small",
+                    "description": "How to handle cyclical wrapping buffers with Perl",
+                    "URL": "http://www.danrumney.co.uk/2011/04/27/handling-wrapping-buffers-with-perl/"
+                },
+                "type": "post",
+                "publishingDate": "2011-04-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Are apostrophes actually needed?",
+                    "URL": "https://english.stackexchange.com/questions/28429/are-apostrophes-actually-needed/28438#28438"
+                },
+                "type": "post",
+                "publishingDate": "2011-06-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "\"I am working\" or \"I have worked almost two months",
+                    "URL": "https://english.stackexchange.com/questions/18680/i-am-working-or-i-have-worked-almost-two-months-at-this-project/18682#18682"
+                },
+                "type": "post",
+                "publishingDate": "2011-03-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "\"Sometimes it does, sometimes it doesn't\"",
+                    "URL": "https://english.stackexchange.com/questions/13804/sometimes-it-does-sometimes-it-doesnt/13805#13805"
+                },
+                "type": "post",
+                "publishingDate": "2011-02-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "How to check if an integer is within a range of numbers in PHP?",
+                    "URL": "https://stackoverflow.com/questions/4684023/how-to-check-if-an-integer-is-within-a-range-of-numbers-in-php/4684064#4684064"
+                },
+                "type": "post",
+                "publishingDate": "2011-01-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Top 1% at Stack Overflow answers",
+                    "description": "This user is part of the top 1% Stack Overflow answerers in these technologies",
+                    "URL": null
+                },
+                "type": "achievement",
+                "publishingDate": "2022-03-04",
+                "relatedCompetences": [
+                    {
+                        "name": "JavaScript",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "jQuery",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "UUID performance in MySQL?",
+                    "URL": "https://stackoverflow.com/questions/2365132/uuid-performance-in-mysql/2365176#2365176"
+                },
+                "type": "post",
+                "publishingDate": "2010-03-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Restful vs Other Web Services",
+                    "URL": "https://stackoverflow.com/questions/2285725/restful-vs-other-web-services/2285743#2285743"
+                },
+                "type": "post",
+                "publishingDate": "2010-02-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Top 10% at Stack Overflow answers",
+                    "description": "This user is part of the top 10% Stack Overflow answerers in these technologies",
+                    "URL": null
+                },
+                "type": "achievement",
+                "publishingDate": "2022-03-04",
+                "relatedCompetences": [
+                    {
+                        "name": "C",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "WordPress",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "NodeJS",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "REST",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "Perl",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "reactjs",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "performance",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "function",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "sorting",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "TypeScript - Score: 248/300",
+                    "URL": null,
+                    "image": {
+                        "alt": "Title: TypeScript - Score: 248/300",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/13ec0c04-6091-4e52-8e9b-27d4b4fdacbe_ygofx.png"
+                    }
+                },
+                "type": "achievement",
+                "publishingDate": "2019-09-01",
+                "relatedCompetences": [
+                    {
+                        "name": "TypeScript",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "Using the Scrum Framework - Score: 204/300",
+                    "URL": null,
+                    "image": {
+                        "alt": "Title: Using the Scrum Framework - Score: 204/300",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/e3c50d13-04e8-4308-ba46-93eb686eb6db_hjkzb.png"
+                    }
+                },
+                "type": "achievement",
+                "publishingDate": "2018-02-01",
+                "relatedCompetences": [
+                    {
+                        "name": "scrum",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "Is the ability to estimate hours an essential quality of a programmer?",
+                    "URL": "https://stackoverflow.com/questions/2365071/is-the-ability-to-estimate-hours-an-essential-quality-of-a-programmer/2365136#2365136"
+                },
+                "type": "post",
+                "publishingDate": "2010-03-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Peculiar Perl problems… — All Geekness Great and Small",
+                    "description": "A couple of common problems when uploading Perl files from a development system to a production system",
+                    "URL": "http://www.danrumney.co.uk/2009/07/03/peculiar-perl-problems/"
+                },
+                "type": "post",
+                "publishingDate": "2009-07-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Making your tweets ReTweetable — All Geekness Great and Small",
+                    "description": "A Greasemonkey script for making sure your tweets are easily retweetable",
+                    "URL": "http://www.danrumney.co.uk/2010/03/02/making-your-tweets-retweetable/"
+                },
+                "type": "post",
+                "publishingDate": "2010-03-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Background",
+                    "description": "When I reflect on my experience, the thing that always occurs to me is Patterns.\n\nI've always enjoyed Improv Comedy. From the age of 12, I've been messing around on stage, playing pattern games (unwittingly, at the time) with friends. Even now, nearly 2 decades on, I'm still doing it; I've been taking Improv classes for a little over 2 years now and performing with troups and in festivals for the past year and it's all about spotting an developing patterns to comedic effect.\n\nThe same is true of my study of Physics. I took that course for the sole reason that I just love the subject. Physics is all about spotting patterns and developing models. I still recall the moment when I realised that 90% of Physics is basically waves, such that the equations that describe light passing through glass also explain why wine cellars stay at a constant temperature. Life got a whole lot easier when I figured that out.\n\nIn all, I love anything that is about finding hidden patterns and underlying, fundamental models that describe seemingly disparate phenomena. It's why I love improv, it's why I love crosswords and it's why I love software development.",
+                    "URL": null
+                },
+                "type": "achievement",
+                "publishingDate": "2017-01-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Javascript - Score: 243/300",
+                    "URL": null,
+                    "image": {
+                        "alt": "Title: Javascript - Score: 243/300",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/79497c53-0a1e-4d9f-8444-b8005c97dd9f_vuj1f.png"
+                    }
+                },
+                "type": "achievement",
+                "publishingDate": "2018-02-01",
+                "relatedCompetences": [
+                    {
+                        "name": "JavaScript",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "jQuery selector for inputs with square brackets in the name attribute",
+                    "URL": "https://stackoverflow.com/questions/2364982/jquery-selector-for-inputs-with-square-brackets-in-the-name-attribute/2365015#2365015"
+                },
+                "type": "post",
+                "publishingDate": "2010-03-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "name": "Top 5% at Stack Overflow answers",
+                    "description": "This user is part of the top 5% Stack Overflow answerers in these technologies",
+                    "URL": null
+                },
+                "type": "achievement",
+                "publishingDate": "2022-03-04",
+                "relatedCompetences": [
+                    {
+                        "name": "PHP",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "JAVA",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "HTML",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "CSS",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "MySQL",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "AJAX",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "Google Maps",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "arrays",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "jquery-selectors",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "multidimensional-array",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "Node.js - Score: 257/300",
+                    "URL": null,
+                    "image": {
+                        "alt": "Title: Node.js - Score: 257/300",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/55ac8dc6-180d-498a-a10b-fa0c7225bdec_ec5th.png"
+                    }
+                },
+                "type": "achievement",
+                "publishingDate": "2019-09-01",
+                "relatedCompetences": [
+                    {
+                        "name": "JavaScript",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "NodeJS",
+                        "type": "technology"
+                    }
+                ]
+            },
+            {
+                "details": {
+                    "name": "San Volume Controller V4.2.1 Advanced Copy Services",
+                    "description": "I was a co-author on the first edition. I'd been looking to get some of my expertise on Automation for this device out into the public and this seemed like an excellent opportunity. I learned a lot about the practicalities of writing a technical book and am keen to repeat the experience.",
+                    "URL": "https://workstory.s3.amazonaws.com/assets/779034/sg247574.pdf",
+                    "image": {
+                        "alt": "San Volume Controller V4.2.1 Advanced Copy Services",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/54e5c6ef-3ece-4691-a1ba-dfa11d7aec48_jejip.png"
+                    }
+                },
+                "type": "post",
+                "publishingDate": "2008-05-01",
+                "relatedCompetences": []
+            }
+        ]
     },
     "knowledge": {
         "studies": [
+            {
+                "studyType": "certification",
+                "degreeAchieved": true,
+                "name": "Certified Scrum Master",
+                "startDate": "2013-01-01",
+                "finishDate": "2015-01-01",
+                "institution": {
+                    "name": "Certified Scrum Master",
+                    "URL": null
+                },
+                "linkedCompetences": [
+                    {
+                        "name": "scrum",
+                        "type": "technology"
+                    }
+                ]
+            },
             {
                 "studyType": "officialDegree",
                 "degreeAchieved": true,
@@ -350,6 +1330,27 @@
                     "URL": null
                 },
                 "linkedCompetences": []
+            },
+            {
+                "studyType": "officialDegree",
+                "degreeAchieved": true,
+                "name": "BA (Hons) Physics",
+                "startDate": "1999-01-01",
+                "finishDate": "2002-01-01",
+                "institution": {
+                    "name": "University of Oxford",
+                    "URL": null
+                },
+                "linkedCompetences": [
+                    {
+                        "name": "Pascal",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "C",
+                        "type": "technology"
+                    }
+                ]
             }
         ]
     },
